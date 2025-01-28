@@ -30,8 +30,10 @@ Professional Appointment
 ------
 2020 – Current: Lecturer / Najran University
   * College of Computer Science and Information Systems
+
 2024 – 2024: Grader / University of Central Florida
   * CAP 5150 – Machine Learning & Security
+
 2010 – 2020: Teaching Assistant / Najran University
   * College of Computer Science and Information Systems
 
@@ -39,5 +41,6 @@ Summer Interships
 ------
 07/2009 – 11/2009: Tester / Albaha University
   * IT Systems Testing
+
 07/2008 – 10/2008: IT Intern / Saudi Telecommunication Company (STC)
   * IT Support & Networking
