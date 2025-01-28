@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Engineering**, University of Central Florida, 2021 – Present  
+  * Advisor: Prof. David Mohaisen  
+  * Topic: AR/VR Security and Privacy  
 
-Work experience
+* **M.Eng. in Electrical and Computer Engineering**, Howard University, 2015 – 2017
+  * Advisor: Prof. Charles Kim  
+  * Focus: Embedded Systems and Security  
+
+* **B.Eng. in Computer Engineering**, Umm Al-Qura University, 2004 – 2009  
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Lecturer**, Najran University, 2020 – Present   
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Grader**, CAP 5150 (Machine Learning and Security), University of Central Florida, Spring 2024  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Teaching Assistant**, Najran University, 2010 – 2020  
+
+* **IT Intern**, Saudi Telecommunication Company (STC), Summer 2008  
+  * Responsibilities: Assisted with IT support and networking tasks.  
+
+* **Tester**, Albaha University, Summer 2009  
+  * Responsibilities: Conducted systems testing and troubleshooting.  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C, R  
+* Platforms and Tools: Arduino, Raspberry Pi, SPSS, LaTeX  
+* Operating Systems: Windows, Linux  
+* Languages: English, Arabic  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Member of the Saudi Council of Engineers (SCE)**, holding a Professional Engineer status.  
+* Reviewer for IEEE Transactions on Security and Privacy.  
