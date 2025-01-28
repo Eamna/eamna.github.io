@@ -1,7 +1,7 @@
 ---
 title: "xr-droid: A Benchmark Dataset for AR/VR and Security Applications"
 collection: publications
-category: journals
+category: Journal and Conference Papers
 permalink: /publication/2024-08-01-xr-droid-dataset
 excerpt: 'This paper introduces xr-droid, a benchmark dataset for AR/VR and security applications, consisting of 408 AR/VR apps with seven standardized features for research.'
 date: 2024-08-01
