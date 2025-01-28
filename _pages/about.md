@@ -1,28 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello! I am Abdulaziz Alghamdi, a Ph.D. candidate in Computer Engineering at the University of Central Florida, working under the mentorship of Prof. David Mohaisen. My research focuses on advancing security and privacy in emerging technologies, with a particular emphasis on AR/VR systems, Android applications, and IoT ecosystems. I specialize in applying machine learning, reverse engineering, and large language models (LLMs) to identify vulnerabilities and enhance the robustness of digital systems.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In addition to my academic pursuits, I serve as a Lecturer at Najran University, where I contribute to shaping the next generation of engineers. Beyond research, I am deeply passionate about translating theoretical advancements into practical solutions that address real-world security challenges. I am always excited to engage in innovative collaborations and contribute to the evolving landscape of cybersecurity and machine learning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Research Interests
+------
+My research interests include security and privacy in AR/VR systems, Android and IoT malware detection, machine learning applications in cybersecurity, reverse engineering and vulnerability analysis, and large language models (LLMs) for security applications.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Education History
+------
+PH.D., Computer Engineering, University of Central Florida, Orlando, FL, USA (2021 – Current)
+Advisor: Prof. David Mohaisen. Topic: AR/VR Security and Privacy
+
+M.ENG., Electrical and Computer Engineering, Howard University, Washington, D.C., USA (2015 – 2017)
+Advisor: Prof. Charles Kim. Topic: Embedded Systems and Security
+
+B.ENG., Computer Engineering, Umm Al-Qura University, Makkah, Saudi Arabia (2004 – 2009)
+
 
 Site-wide configuration
 ------
