@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Service and Memberships"
-permalink: /service-memberships/
+title: "Service, Memberships, and Teaching"
+permalink: /service-memberships-teaching/
 author_profile: true
 ---
 
@@ -11,6 +11,15 @@ author_profile: true
   <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
 </p>
 {% endif %}
+
+<!-- Teaching Section -->
+<h2>Teaching</h2>
+<hr />
+{% for post in site.talks reversed %}
+  {% if post.category == "Teaching" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
 
 <!-- Service Section -->
 <h2>Service</h2>
@@ -29,4 +38,3 @@ author_profile: true
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
-
