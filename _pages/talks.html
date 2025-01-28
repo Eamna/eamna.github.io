@@ -15,26 +15,20 @@ author_profile: true
 <!-- Teaching Section -->
 <h2>Teaching</h2>
 <hr />
-{% for post in site.talks reversed %}
-  {% if post.category == "Teaching" %}
-    {% include archive-single-talk.html %}
-  {% endif %}
+{% for post in site.teaching %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <!-- Service Section -->
 <h2>Service</h2>
 <hr />
-{% for post in site.talks reversed %}
-  {% if post.category == "Service" %}
-    {% include archive-single-talk.html %}
-  {% endif %}
+{% for post in site.service %}
+  {% include archive-single.html %}
 {% endfor %}
 
 <!-- Memberships Section -->
 <h2>Memberships</h2>
 <hr />
-{% for post in site.talks reversed %}
-  {% if post.category == "Memberships" %}
-    {% include archive-single-talk.html %}
-  {% endif %}
+{% for post in site.memberships %}
+  {% include archive-single.html %}
 {% endfor %}
