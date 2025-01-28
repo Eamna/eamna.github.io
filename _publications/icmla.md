@@ -1,7 +1,7 @@
 ---
 title: "Through the Looking Glass: LLM-Based Analysis of AR/VR Android Applications Privacy Policies"
 collection: publications
-category: conferences
+category: Journal and Conference Papers
 permalink: /publication/2024-12-18-llm-analysis-ar-vr
 excerpt: 'This paper explores privacy policies in AR/VR Android applications using large language models (LLMs) to assess security and privacy implications.'
 date: 2024-12-18
