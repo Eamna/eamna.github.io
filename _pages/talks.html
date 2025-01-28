@@ -1,16 +1,32 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Service and Memberships"
+permalink: /service-memberships/
 author_profile: true
 ---
 
+<!-- Check for a map link if needed -->
 {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+<p style="text-decoration:underline;">
+  <a href="/talkmap.html">See a map of all the places I've given a talk!</a>
+</p>
 {% endif %}
 
+<!-- Service Section -->
+<h2>Service</h2>
+<hr />
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.category == "Service" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
+
+<!-- Memberships Section -->
+<h2>Memberships</h2>
+<hr />
+{% for post in site.talks reversed %}
+  {% if post.category == "Memberships" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
