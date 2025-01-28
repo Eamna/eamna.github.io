@@ -17,13 +17,13 @@ My research interests include security and privacy in AR/VR systems, Android and
 
 Education History
 ------
-* PH.D., Computer Engineering, University of Central Florida, Orlando, FL, USA (2021 – Current)
-    Advisor: Prof. David Mohaisen. Topic: AR/VR Security and Privacy
+PH.D., Computer Engineering, University of Central Florida, Orlando, FL, USA (2021 – Current)
+  * Advisor: Prof. David Mohaisen. Topic: AR/VR Security and Privacy
 
-* M.ENG., Electrical and Computer Engineering, Howard University, Washington, D.C., USA (2015 – 2017)
-    Advisor: Prof. Charles Kim. Topic: Embedded Systems and Security
+M.ENG., Electrical and Computer Engineering, Howard University, Washington, D.C., USA (2015 – 2017)
+  * Advisor: Prof. Charles Kim. Topic: Embedded Systems and Security
 
-* B.ENG., Computer Engineering, Umm Al-Qura University, Makkah, Saudi Arabia (2004 – 2009)
+B.ENG., Computer Engineering, Umm Al-Qura University, Makkah, Saudi Arabia (2004 – 2009)
 
 
 Professional Appointment
