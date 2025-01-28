@@ -25,7 +25,7 @@ Work Experience
 ======
 * **Lecturer**, Najran University, 2020 – Present   
 
-* **Grader**, CAP 5150 (Machine Learning and Security), University of Central Florida, Spring 2024  
+* **Grader**, CAP 5150 (Foundations of Computer Security and Privacy), University of Central Florida, Spring 2024  
 
 * **Teaching Assistant**, Najran University, 2010 – 2020  
 
